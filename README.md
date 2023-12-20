@@ -1,2 +1,2 @@
-# python
-Lógica de programação em Python
+# Lógica de programação em Python
+Com o avanço da tecnologia, é cada vez maior a quantidade de dados disponíveis para análises avançadas. Desta forma, a área de Ciência de Dados floresceu auxiliando empresas e profissionais em suas tomadas de decisões. A principal ferramenta utilizada por cientistas de dados é a linguagem Python, com sua simplicidade e crescimento em diversos segmentos, além de Data Science, Python se consolidou como uma das principais linguagem de programação da atualidade.
